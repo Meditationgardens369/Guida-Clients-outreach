@@ -9,7 +9,9 @@ window.CLIENTS = [
     "recommended": "minha mãe",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 1
+    "id": 1,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_094105557.jpg",
@@ -21,7 +23,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 2
+    "id": 2,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_094109935.jpg",
@@ -33,7 +37,9 @@ window.CLIENTS = [
     "recommended": "Camila",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 3
+    "id": 3,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133213124.jpg",
@@ -45,7 +51,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "Portuguese",
-    "id": 4
+    "id": 4,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133218853.jpg",
@@ -57,7 +65,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "English",
-    "id": 5
+    "id": 5,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133222773.jpg",
@@ -69,7 +79,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "English",
-    "id": 6
+    "id": 6,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133228125.jpg",
@@ -81,7 +93,9 @@ window.CLIENTS = [
     "recommended": "Juliet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 7
+    "id": 7,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133237067.jpg",
@@ -93,7 +107,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 8
+    "id": 8,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133241445.jpg",
@@ -105,7 +121,9 @@ window.CLIENTS = [
     "recommended": "Guida",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 9
+    "id": 9,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133244485.jpg",
@@ -117,7 +135,9 @@ window.CLIENTS = [
     "recommended": "Guida",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 10
+    "id": 10,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133248014.jpg",
@@ -129,7 +149,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 11
+    "id": 11,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133329655.jpg",
@@ -141,7 +163,9 @@ window.CLIENTS = [
     "recommended": "Guida",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 12
+    "id": 12,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133357119.jpg",
@@ -153,7 +177,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 13
+    "id": 13,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133515434.jpg",
@@ -165,7 +191,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 14
+    "id": 14,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133520614.jpg",
@@ -177,7 +205,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 15
+    "id": 15,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133528357.jpg",
@@ -189,7 +219,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 16
+    "id": 16,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133538707.jpg",
@@ -201,7 +233,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 17
+    "id": 17,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133550500.jpg",
@@ -213,7 +247,9 @@ window.CLIENTS = [
     "recommended": "Minha amiga Maria Reis",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 18
+    "id": 18,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133552371.jpg",
@@ -225,7 +261,9 @@ window.CLIENTS = [
     "recommended": "Rose",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 19
+    "id": 19,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133740226.jpg",
@@ -237,7 +275,9 @@ window.CLIENTS = [
     "recommended": "Hazel",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 20
+    "id": 20,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133745177.jpg",
@@ -249,7 +289,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 21
+    "id": 21,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133757274.jpg",
@@ -261,7 +303,9 @@ window.CLIENTS = [
     "recommended": "found on Google",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 22
+    "id": 22,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133802730.jpg",
@@ -273,7 +317,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 23
+    "id": 23,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133806214.jpg",
@@ -285,7 +331,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 24
+    "id": 24,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133811639.jpg",
@@ -297,7 +345,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 25
+    "id": 25,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133839224.jpg",
@@ -309,7 +359,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 26
+    "id": 26,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133848847.jpg",
@@ -321,7 +373,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 27
+    "id": 27,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133852696.jpg",
@@ -333,7 +387,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 28
+    "id": 28,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133856357.jpg",
@@ -345,7 +401,9 @@ window.CLIENTS = [
     "recommended": "Google",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 29
+    "id": 29,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133901077.jpg",
@@ -357,7 +415,9 @@ window.CLIENTS = [
     "recommended": "Hazel Telford",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 30
+    "id": 30,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133907754.jpg",
@@ -369,7 +429,9 @@ window.CLIENTS = [
     "recommended": "Guida",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 31
+    "id": 31,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133911417.jpg",
@@ -381,7 +443,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 32
+    "id": 32,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133914793.jpg",
@@ -393,7 +457,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 33
+    "id": 33,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133917650.jpg",
@@ -405,7 +471,9 @@ window.CLIENTS = [
     "recommended": "Sra. Ervanária",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 34
+    "id": 34,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133920596.jpg",
@@ -417,7 +485,9 @@ window.CLIENTS = [
     "recommended": "I met you",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 35
+    "id": 35,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133924815.jpg",
@@ -429,7 +499,9 @@ window.CLIENTS = [
     "recommended": "Liliana Correia",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 36
+    "id": 36,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133928661.jpg",
@@ -441,7 +513,9 @@ window.CLIENTS = [
     "recommended": "Rayrane",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 37
+    "id": 37,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133932302.jpg",
@@ -453,7 +527,9 @@ window.CLIENTS = [
     "recommended": "Tainara Rodrigues",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 38
+    "id": 38,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133935327.jpg",
@@ -465,7 +541,9 @@ window.CLIENTS = [
     "recommended": "Instagram/Google",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 39
+    "id": 39,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133938204.jpg",
@@ -477,7 +555,9 @@ window.CLIENTS = [
     "recommended": "Penina e Juliete Martins",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 40
+    "id": 40,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133940937.jpg",
@@ -489,7 +569,9 @@ window.CLIENTS = [
     "recommended": "Net",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 41
+    "id": 41,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133946039.jpg",
@@ -501,7 +583,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 42
+    "id": 42,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133958025.jpg",
@@ -513,7 +597,9 @@ window.CLIENTS = [
     "recommended": "Isabel Mendes",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 43
+    "id": 43,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133749726.jpg",
@@ -525,7 +611,9 @@ window.CLIENTS = [
     "recommended": "Net",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 44
+    "id": 44,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133943371.jpg",
@@ -537,7 +625,9 @@ window.CLIENTS = [
     "recommended": "Dina",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 45
+    "id": 45,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133949045.jpg",
@@ -549,7 +639,9 @@ window.CLIENTS = [
     "recommended": "Pedro Vieira",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 46
+    "id": 46,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_133952020.jpg",
@@ -561,7 +653,9 @@ window.CLIENTS = [
     "recommended": "Pedro Vieira",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 47
+    "id": 47,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134001235.jpg",
@@ -573,7 +667,9 @@ window.CLIENTS = [
     "recommended": "Guida",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 48
+    "id": 48,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134005143.jpg",
@@ -585,7 +681,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 49
+    "id": 49,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134008754.jpg",
@@ -597,7 +695,9 @@ window.CLIENTS = [
     "recommended": "Niall Leyden",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 50
+    "id": 50,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134012478.jpg",
@@ -609,7 +709,9 @@ window.CLIENTS = [
     "recommended": "Existing client",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 51
+    "id": 51,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134015691.jpg",
@@ -621,7 +723,9 @@ window.CLIENTS = [
     "recommended": "Internet / Serenity",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 52
+    "id": 52,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134018857.jpg",
@@ -633,7 +737,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 53
+    "id": 53,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134022875.jpg",
@@ -645,7 +751,9 @@ window.CLIENTS = [
     "recommended": "Site",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 54
+    "id": 54,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134026472.jpg",
@@ -657,7 +765,9 @@ window.CLIENTS = [
     "recommended": "Guida / vi as tuas publicações",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 55
+    "id": 55,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134035481.jpg",
@@ -669,7 +779,9 @@ window.CLIENTS = [
     "recommended": "Cosmin",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 56
+    "id": 56,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134038645.jpg",
@@ -681,7 +793,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 57
+    "id": 57,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134041469.jpg",
@@ -693,7 +807,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 58
+    "id": 58,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134044303.jpg",
@@ -705,7 +821,9 @@ window.CLIENTS = [
     "recommended": "Google Search",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 59
+    "id": 59,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134047583.jpg",
@@ -717,7 +835,9 @@ window.CLIENTS = [
     "recommended": "Mãe",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 60
+    "id": 60,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134051792.jpg",
@@ -729,7 +849,9 @@ window.CLIENTS = [
     "recommended": "D. Vitória (Portimão)",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 61
+    "id": 61,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134054633.jpg",
@@ -741,7 +863,9 @@ window.CLIENTS = [
     "recommended": "Website",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 62
+    "id": 62,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134059197.jpg",
@@ -753,7 +877,9 @@ window.CLIENTS = [
     "recommended": "Vera / Guida",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 63
+    "id": 63,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134103350.jpg",
@@ -765,7 +891,9 @@ window.CLIENTS = [
     "recommended": "N/A",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 64
+    "id": 64,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134108126.jpg",
@@ -777,7 +905,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 65
+    "id": 65,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134138660.jpg",
@@ -789,7 +919,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "English",
-    "id": 66
+    "id": 66,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134152274.jpg",
@@ -801,7 +933,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 67
+    "id": 67,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134159209.jpg",
@@ -813,7 +947,9 @@ window.CLIENTS = [
     "recommended": "Google",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 68
+    "id": 68,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134204520.jpg",
@@ -825,7 +961,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 69
+    "id": 69,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134208125.jpg",
@@ -837,7 +975,9 @@ window.CLIENTS = [
     "recommended": "Intuição",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 70
+    "id": 70,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134211441.jpg",
@@ -849,7 +989,9 @@ window.CLIENTS = [
     "recommended": "A friend",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 71
+    "id": 71,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134215828.jpg",
@@ -861,7 +1003,9 @@ window.CLIENTS = [
     "recommended": "Internet",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 72
+    "id": 72,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134223895.jpg",
@@ -873,7 +1017,9 @@ window.CLIENTS = [
     "recommended": "Guida",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 73
+    "id": 73,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134232456.jpg",
@@ -885,7 +1031,9 @@ window.CLIENTS = [
     "recommended": "Idília",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 74
+    "id": 74,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134237547.jpg",
@@ -897,7 +1045,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "Portuguese",
-    "id": 75
+    "id": 75,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134241505.jpg",
@@ -909,7 +1059,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "Portuguese",
-    "id": 76
+    "id": 76,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134246747.jpg",
@@ -921,7 +1073,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "Portuguese",
-    "id": 77
+    "id": 77,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134251991.jpg",
@@ -933,7 +1087,9 @@ window.CLIENTS = [
     "recommended": "",
     "type": "Massage",
     "langGuess": "Portuguese",
-    "id": 78
+    "id": 78,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134255998.jpg",
@@ -945,7 +1101,9 @@ window.CLIENTS = [
     "recommended": "Dulce",
     "type": "Reconnective Healing",
     "langGuess": "English",
-    "id": 79
+    "id": 79,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_134259798.jpg",
@@ -957,7 +1115,9 @@ window.CLIENTS = [
     "recommended": "Dulce Silva",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 80
+    "id": 80,
+    "region": "Portugal",
+    "tag": ""
   },
   {
     "file": "PXL_20260623_135152559.jpg",
@@ -969,6 +1129,484 @@ window.CLIENTS = [
     "recommended": "Guida",
     "type": "Reconnective Healing",
     "langGuess": "Portuguese",
-    "id": 81
+    "id": 81,
+    "region": "Portugal",
+    "tag": ""
+  },
+  {
+    "file": "IMG-20260625-WA0014.jpg",
+    "name": "Annette Naughton",
+    "email": "",
+    "phone": "087 245 5910",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 82
+  },
+  {
+    "file": "IMG-20260625-WA0015.jpg",
+    "name": "Kori Goad",
+    "email": "",
+    "phone": "087 330 1288",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "WhatsApp",
+    "langGuess": "English",
+    "id": 83
+  },
+  {
+    "file": "IMG-20260625-WA0015.jpg",
+    "name": "Maria Goad",
+    "email": "",
+    "phone": "087 715 4020",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 84
+  },
+  {
+    "file": "IMG-20260625-WA0016.jpg",
+    "name": "Ken",
+    "email": "",
+    "phone": "085 121 4574",
+    "birth": "",
+    "date": "20/05",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "costas / José (name uncertain)",
+    "langGuess": "English",
+    "id": 85
+  },
+  {
+    "file": "IMG-20260625-WA0016.jpg",
+    "name": "Ciara",
+    "email": "",
+    "phone": "085 825 1402",
+    "birth": "",
+    "date": "08/05",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "costas",
+    "langGuess": "English",
+    "id": 86
+  },
+  {
+    "file": "IMG-20260625-WA0016.jpg",
+    "name": "Mary T.",
+    "email": "",
+    "phone": "086 312 0893",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "amiga de Dublin",
+    "langGuess": "English",
+    "id": 87
+  },
+  {
+    "file": "IMG-20260625-WA0016.jpg",
+    "name": "Noreen",
+    "email": "",
+    "phone": "086 068 8924",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 88
+  },
+  {
+    "file": "IMG-20260625-WA0016.jpg",
+    "name": "Catherine",
+    "email": "",
+    "phone": "087 205 8789",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "fibromialgia",
+    "langGuess": "English",
+    "id": 89
+  },
+  {
+    "file": "IMG-20260625-WA0017.jpg",
+    "name": "Anne Gormally",
+    "email": "",
+    "phone": "089 948 2128",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "name uncertain",
+    "langGuess": "English",
+    "id": 90
+  },
+  {
+    "file": "IMG-20260625-WA0017.jpg",
+    "name": "Patricia McHugh",
+    "email": "g.p.mchugh@hotmail.com",
+    "phone": "087 953 1996",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "WhatsApp / Viber",
+    "langGuess": "English",
+    "id": 91
+  },
+  {
+    "file": "IMG-20260625-WA0017.jpg",
+    "name": "Martin Gormally",
+    "email": "mattgormally@gmail.com",
+    "phone": "086 254 3717",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 92
+  },
+  {
+    "file": "IMG-20260625-WA0017.jpg",
+    "name": "Harry Durkan",
+    "email": "",
+    "phone": "087 957 2913",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 93
+  },
+  {
+    "file": "IMG-20260625-WA0018.jpg",
+    "name": "Mary McCullagh",
+    "email": "",
+    "phone": "087 291 8583",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "dores costas e joelho",
+    "langGuess": "English",
+    "id": 94
+  },
+  {
+    "file": "IMG-20260625-WA0018.jpg",
+    "name": "Annie Corbett",
+    "email": "",
+    "phone": "087 830 7351",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "Reconnective Healing",
+    "region": "Ireland",
+    "tag": "R.H. / video What the Bleep",
+    "langGuess": "English",
+    "id": 95
+  },
+  {
+    "file": "IMG-20260625-WA0018.jpg",
+    "name": "Aimée Keane",
+    "email": "",
+    "phone": "087 923 8517",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 96
+  },
+  {
+    "file": "IMG-20260625-WA0018.jpg",
+    "name": "Margaret Carr",
+    "email": "",
+    "phone": "086 889 2842",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "origami / book",
+    "langGuess": "English",
+    "id": 97
+  },
+  {
+    "file": "IMG-20260625-WA0018.jpg",
+    "name": "Aideen Morris",
+    "email": "",
+    "phone": "075 1752 9120",
+    "birth": "",
+    "date": "",
+    "recommended": "Mary McCullagh (filha)",
+    "type": "",
+    "region": "Ireland",
+    "tag": "trauma / emocional",
+    "langGuess": "English",
+    "id": 98
+  },
+  {
+    "file": "IMG-20260625-WA0019.jpg",
+    "name": "Margaret",
+    "email": "",
+    "phone": "+353 86 240 0499",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "first name only",
+    "langGuess": "English",
+    "id": 99
+  },
+  {
+    "file": "IMG-20260625-WA0019.jpg",
+    "name": "Bernie Naughton",
+    "email": "",
+    "phone": "087 790 6153",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 100
+  },
+  {
+    "file": "IMG-20260625-WA0020.jpg",
+    "name": "Noreen Gavin",
+    "email": "",
+    "phone": "086 025 6709",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "Limerick",
+    "langGuess": "English",
+    "id": 101
+  },
+  {
+    "file": "IMG-20260625-WA0020.jpg",
+    "name": "Norma Moran",
+    "email": "",
+    "phone": "087 906 7669",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "book",
+    "langGuess": "English",
+    "id": 102
+  },
+  {
+    "file": "IMG-20260625-WA0020.jpg",
+    "name": "Louise Ahern",
+    "email": "",
+    "phone": "087 416 5448",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 103
+  },
+  {
+    "file": "IMG-20260625-WA0020.jpg",
+    "name": "Margaret Ahern",
+    "email": "",
+    "phone": "087 631 9431",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "book",
+    "langGuess": "English",
+    "id": 104
+  },
+  {
+    "file": "IMG-20260625-WA0020.jpg",
+    "name": "Miriam Ahern",
+    "email": "",
+    "phone": "087 765 1415",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "book / bleep",
+    "langGuess": "English",
+    "id": 105
+  },
+  {
+    "file": "IMG-20260625-WA0021.jpg",
+    "name": "Linda Hunt",
+    "email": "",
+    "phone": "087 777 0375",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "book / bleep",
+    "langGuess": "English",
+    "id": 106
+  },
+  {
+    "file": "IMG-20260625-WA0021.jpg",
+    "name": "Anita Fitzgerald",
+    "email": "",
+    "phone": "",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "no number on file",
+    "langGuess": "English",
+    "id": 107
+  },
+  {
+    "file": "IMG-20260625-WA0021.jpg",
+    "name": "Claire Sheahan",
+    "email": "",
+    "phone": "086 817 7526",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "bleep",
+    "langGuess": "English",
+    "id": 108
+  },
+  {
+    "file": "IMG-20260625-WA0021.jpg",
+    "name": "Marie O'Connell",
+    "email": "",
+    "phone": "087 292 7577",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "call / beep",
+    "langGuess": "English",
+    "id": 109
+  },
+  {
+    "file": "IMG-20260625-WA0022.jpg",
+    "name": "Gerard Brady",
+    "email": "gerardbrady90@gmail.com",
+    "phone": "086 085 4793",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 110
+  },
+  {
+    "file": "IMG-20260625-WA0022.jpg",
+    "name": "Barbara Higgins",
+    "email": "babettehiggins@gmail.com",
+    "phone": "087 928 4068",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 111
+  },
+  {
+    "file": "IMG-20260625-WA0022.jpg",
+    "name": "Franciele Rocha",
+    "email": "franciele0805@yahoo.com.br",
+    "phone": "086 397 2634",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "Brazilian",
+    "langGuess": "English",
+    "id": 112
+  },
+  {
+    "file": "IMG-20260625-WA0023.jpg",
+    "name": "Blondie Horan",
+    "email": "blondiehoran@gmail.com",
+    "phone": "+353 87 299 2828",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 113
+  },
+  {
+    "file": "IMG-20260625-WA0023.jpg",
+    "name": "Elaine Kenny",
+    "email": "",
+    "phone": "087 697 9524",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "Lauren",
+    "langGuess": "English",
+    "id": 114
+  },
+  {
+    "file": "IMG-20260625-WA0023.jpg",
+    "name": "Tom Kelly",
+    "email": "",
+    "phone": "087 410 9386",
+    "birth": "",
+    "date": "",
+    "recommended": "",
+    "type": "",
+    "region": "Ireland",
+    "tag": "",
+    "langGuess": "English",
+    "id": 115
   }
 ];
