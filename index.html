@@ -60,6 +60,8 @@
   .c .meta{font-size:12.5px;color:var(--muted);margin-top:3px;display:flex;flex-wrap:wrap;gap:8px}
   .badge{font-size:11px;font-weight:700;padding:3px 8px;border-radius:999px;white-space:nowrap}
   .b-rh{background:#efeaff;color:#5a45d6} .b-ms{background:#fdf0d8;color:#a96c00}
+  .b-ie{background:#e6f4ea;color:#1f7a3d} .b-pt{background:#fdeaea;color:#b23b2e}
+  .c .meta .tag{font-style:italic;color:#a08bd6}
   .contact{display:flex;flex-wrap:wrap;gap:8px;margin:11px 0 4px}
   .contact a{display:inline-flex;align-items:center;gap:6px;text-decoration:none;font-size:14px;font-weight:600;
     padding:8px 12px;border-radius:10px;border:1px solid var(--line);color:var(--ink)}
@@ -118,6 +120,11 @@
         <button data-v="Adam">Adam · English</button>
         <button data-v="Guida">Guida · Português</button>
       </div>
+      <div class="seg" data-group="region">
+        <button data-v="all" class="on">All places</button>
+        <button data-v="Portugal">🇵🇹 Portugal</button>
+        <button data-v="Ireland">🇮🇪 Ireland</button>
+      </div>
       <div class="seg" data-group="type">
         <button data-v="all" class="on">All types</button>
         <button data-v="Reconnective Healing">Reconnective</button>
@@ -159,12 +166,13 @@ function g(id){return state[id]||EMPTY}            // read-only, no mutation
 function st(id){return state[id]||(state[id]={})}  // for writes
 function who(c){const s=g(c.id); if(s.assignee) return s.assignee; return c.langGuess==='Portuguese'?'Guida':'Adam'}
 
-const filters={who:'all',type:'all',status:'all',q:'',phoneOnly:false};
+const filters={who:'all',type:'all',status:'all',region:'all',q:'',phoneOnly:false};
 
 function telHref(p){return 'tel:'+p.replace(/[^+0-9]/g,'')}
 
 function matches(c){
   if(filters.who!=='all' && who(c)!==filters.who) return false;
+  if(filters.region!=='all' && (c.region||'Portugal')!==filters.region) return false;
   if(filters.type!=='all' && c.type!==filters.type) return false;
   const s=g(c.id).status||'';
   if(filters.status==='todo' && (s==='agreed'||s==='declined'||s==='done')) return false;
@@ -173,7 +181,7 @@ function matches(c){
   if(filters.phoneOnly && !c.phone) return false;
   if(filters.q){
     const q=filters.q.toLowerCase();
-    const hay=(c.name+' '+c.email+' '+c.phone+' '+(c.recommended||'')).toLowerCase();
+    const hay=(c.name+' '+c.email+' '+c.phone+' '+(c.recommended||'')+' '+(c.tag||'')+' '+(c.region||'')).toLowerCase();
     if(!hay.includes(q)) return false;
   }
   return true;
@@ -183,15 +191,15 @@ function renderStats(){
   const all=window.CLIENTS;
   const adam=all.filter(c=>who(c)==='Adam').length;
   const guida=all.filter(c=>who(c)==='Guida').length;
-  const rh=all.filter(c=>c.type==='Reconnective Healing').length;
-  const ms=all.filter(c=>c.type==='Massage').length;
+  const ire=all.filter(c=>(c.region||'Portugal')==='Ireland').length;
+  const ptc=all.length-ire;
   const phones=all.filter(c=>c.phone).length;
   document.getElementById('stats').innerHTML=`
     <div class="stat"><div class="num">${all.length}</div><div class="lbl">Total past clients</div></div>
     <div class="stat guida"><div class="num">${guida}</div><div class="lbl">Guida — Portuguese 🇵🇹</div></div>
     <div class="stat adam"><div class="num">${adam}</div><div class="lbl">Adam — English 🌍</div></div>
-    <div class="stat"><div class="num">${rh}</div><div class="lbl">Reconnective Healing</div></div>
-    <div class="stat"><div class="num">${ms}</div><div class="lbl">Massage</div></div>
+    <div class="stat"><div class="num">${ptc}</div><div class="lbl">🇵🇹 Portugal (forms)</div></div>
+    <div class="stat"><div class="num">${ire}</div><div class="lbl">🇮🇪 Ireland (earlier years)</div></div>
     <div class="stat"><div class="num">${phones}</div><div class="lbl">Have a phone number</div></div>`;
   // progress over everyone
   const cnt={agreed:0,noanswer:0,declined:0,done:0,pending:0};
@@ -208,10 +216,15 @@ function card(c){
   const s=g(c.id);
   const status=s.status||'';
   const w=who(c);
-  const typeBadge=c.type==='Massage'?'<span class="badge b-ms">Massage</span>':'<span class="badge b-rh">Reconnective</span>';
+  let typeBadge;
+  if(c.type==='Massage') typeBadge='<span class="badge b-ms">Massage</span>';
+  else if(c.type==='Reconnective Healing') typeBadge='<span class="badge b-rh">Reconnective</span>';
+  else typeBadge='<span class="badge b-ie">🇮🇪 Ireland</span>';
   const meta=[];
+  meta.push((c.region||'Portugal')==='Ireland'?'🇮🇪 Ireland':'🇵🇹 Portugal');
   if(c.date) meta.push('📅 '+c.date);
   if(c.recommended) meta.push('via '+c.recommended);
+  if(c.tag) meta.push('<span class="tag">'+c.tag+'</span>');
   const contact=[];
   if(c.phone) contact.push(`<a class="call" href="${telHref(c.phone)}">📞 ${c.phone}</a>`);
   if(c.email) contact.push(`<a class="mail" href="mailto:${c.email}">✉ ${c.email}</a>`);
